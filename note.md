@@ -51,6 +51,8 @@ order_reviews
 
 ---
 
+![Olist E-Commerce ER Diagram](olist_er_diagram.png)
+
 ## 3. Primary Keys
 
 - `orders.order_id`
